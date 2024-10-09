@@ -1,5 +1,0 @@
-snowflake-connector-python
-pandas
-numpy
-streamlit
-snowflake-snowpark-python==1.11.1
